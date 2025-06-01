@@ -66,6 +66,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">      
+                <a href="https://github.com/Kellybrackets">
+                    <img src="https://avatars.githubusercontent.com/u/81316306?v=4" 
+                    width="100px"
+                        alt="Keletso Ntseno" />
+                    <br />
+                    <sub>
+                        <b>Keletso Ntseno</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Anuragkumar-687">
                     <img src="https://avatars.githubusercontent.com/u/188879588?v=4" width="100px;"
